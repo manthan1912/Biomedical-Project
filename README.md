@@ -55,7 +55,7 @@ After downloading the software,
 	```
 * ```bash
 	Proceed ([y]/n)? y *press y and enter*
-*	```
+```
 * Once the installation of the rdkit environment is complete you will see 
 ```bash
 Preparing transaction: done
