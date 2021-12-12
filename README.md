@@ -1,12 +1,15 @@
 ﻿# Predicting Synergistic Drug Combinations using Machine Learning Techniques.
 
+#### Abstract:
+Breast cancer is a disease in which the cells in the breast split out of control. It is a major health problem worldwide principally among women and this cancer may spread to other parts of the body in most cases. This cancer is observed in the age group of 25 – 50. On average, 75 women are being diagnosed with breast cancer every day in Canada and 14 women die each day. Though the survival chances of vary based on the stage of cancer and patient’s response to the treatment, chemotherapy is used as a main treatment in majority of situations. Cancers cells are known to develop resistance to targeting drugs over the course of treatment and this leads to cancer recurrence. To overcome this problem, it is essential to implement drug combination therapy, where two or more drugs combined to target the cancer which delays the resistance of cancer over the drugs and decreases toxicity. Whenever a new drug is invented, the chances to identify a new drug combination reduce. Advancement in the field of computer science and biology, lead to an evolution of ‘bioinformatics’. Application of machine learning to this field optimized the problem of discovering new drug combination to cure cancers. In this paper, we aim to predict new drug combinations, through machine learning methods, that can be effective in breast cancer treatment.
+
+#
 Steps:
 1) Download Anaconda.
 2) Install Anaconda in your system.
 3) Install rdkit environment in conda.
 4) Open Anaconda Navigator
 5) Open Jupyter Notebook from the Anaconda Navigator
-6) 
 
 
 # Download Anaconda3-2021.11
