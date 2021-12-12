@@ -103,6 +103,7 @@ are already installed while installing the conda environment.
 * Hence, click on install under "Jupyter Notebook" box.
 * Once the installation is done, the "install" button will be changed into "Launch".
 * Just click on launch and the browser window will open with the default jupyter location.
+* Note: Put the project folder in the C:\Users\{username} directory.
 * Open the folder where the project files are stored.
 * First, open the "preprocessing_and_dataset_preparation.ipynb" file.
 * Then run the "modelling_and_results.ipynb".
